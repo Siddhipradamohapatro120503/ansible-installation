@@ -1,5 +1,9 @@
 # Ansible Short Notes for DevOps Engineers
 
+
+[Link to the video](https://www.youtube.com/watch?v=TQxbdh4g7oI&t=1557s)
+
+
 ## Introduction to Ansible
 
 Ansible is an open-source automation tool used for configuration management, application deployment, and orchestration.
