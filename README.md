@@ -1,6 +1,6 @@
 # Ansible Short Notes for DevOps Engineers
 
-
+https://github.com/Siddhipradamohapatro120503/ansible-installation/blob/main/Ansible-thumb.png
 [Link to the video](https://www.youtube.com/watch?v=TQxbdh4g7oI&t=1557s)
 
 
